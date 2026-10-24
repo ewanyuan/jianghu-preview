@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ewanyuan.github.io/jianghu-preview/sitemap.xml
